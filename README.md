@@ -6,9 +6,9 @@ I'm passionate about building practical AI solutions — from computer vision to
 
 ### What I'm Currently Working On
 
-- 🖼️ Nepali Cultural Dress Captioning (image captioning in Nepali)
-- 🏋️ Gym Posture Detection using MediaPipe
-- ⚡ Energy Consumption Forecasting with CNN–LSTM
+- Nepali Cultural Dress Captioning (image captioning in Nepali)
+- Gym Posture Detection using MediaPipe
+- Energy Consumption Forecasting with CNN–LSTM
 
 ### Tools & Tech
 
@@ -20,13 +20,13 @@ I'm passionate about building practical AI solutions — from computer vision to
 
 ### A Bit About Me
 
-- 🎓 Final-year AI student at Kathmandu University
-- 🏆 2nd Runner-Up, Data Bootcamp (Dept. of Artificial Intelligence Club)
-- 💻 National-level hackathon participant (NCIT College)
-- 🗣️ Speak Nepali & Hindi fluently, English at an intermediate level
+- Final-year AI student at Kathmandu University
+- 2nd Runner-Up, Data Bootcamp (Dept. of Artificial Intelligence Club)
+- National-level hackathon participant (NCIT College)
+- Speak Nepali & Hindi fluently, English at an intermediate level
 
 ### How to Reach Me
 
-- 📧 bhupendra.badal10@gmail.com
-- 💼 [linkedin.com/in/bhupendra-badal-6b725436a](https://linkedin.com/in/bhupendra-badal-6b725436a)
-- 🐙 [github.com/Bhupendra-Badal](https://github.com/Bhupendra-Badal)
+- bhupendra.badal10@gmail.com
+- [linkedin.com/in/bhupendra-badal-6b725436a](https://linkedin.com/in/bhupendra-badal-6b725436a)
+- [github.com/Bhupendra-Badal](https://github.com/Bhupendra-Badal)
